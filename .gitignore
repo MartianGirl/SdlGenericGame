@@ -1,9 +1,9 @@
 *.swp
 CMakeCache.txt
+install_manifest.txt
 **/CMakeFiles
+**/cmake_install.cmake
+**/Makefile
 /bin
 /src/Config.h
-/src/SdlGenericGame
-**/Makefile
-**/cmake_install.cmake
-install_manifest.txt
+/src/SdlGenericGameExecutable
