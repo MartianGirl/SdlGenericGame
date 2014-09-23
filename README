@@ -6,3 +6,6 @@ this as a starting point for other projects.
 
 2014/09/22:
 Getting clear the CMakeLists.txt structure.
+
+2014/09/24:
+Basic unit test project.
