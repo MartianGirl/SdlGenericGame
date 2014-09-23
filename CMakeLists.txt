@@ -37,3 +37,6 @@ include_directories(${SDL2_INCLUDE_DIR})
 
 # Look in the src subdirectory
 add_subdirectory(src)
+
+# Look in the test subdirectory
+add_subdirectory(test)
